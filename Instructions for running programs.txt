@@ -1,0 +1,4 @@
+1.On the command line cd to the folder with the java files and data.txt file
+2.Use the java command to compile a program eg. “javac HelloWorld.java”
+3.Type the program name followed by 2 arguments,the input file name followed by the output file name eg. HelloWorld data.txt output.txt
+4.Output will be printed to the screen as well as in the textile
